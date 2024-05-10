@@ -16,3 +16,9 @@ console.log(ne)
 
 // 1 => true  0 => false
 // "" => false  "abc" => true
+
+// console.log(2 + 3+"3"+4)
+// console.log("3"+4+5)
+
+console.log(+true)
+console.log(+"")
